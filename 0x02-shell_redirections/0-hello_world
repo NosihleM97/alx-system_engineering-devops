@@ -1,3 +1,4 @@
 #!/bin/bash
-echo “Hello, World" | cat -e
+echo -e "Hello, World"
+
 
